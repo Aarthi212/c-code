@@ -15,7 +15,7 @@ int main()
 		digits++;
 		else others++;
 		s++;
-		}
+	}
 		printf("Alphabets          = %d\n", alphabets); 
 		printf("Digits             = %d\n", digits);
 		printf("Special characters = %d", others);
